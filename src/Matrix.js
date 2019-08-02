@@ -19,7 +19,7 @@ export default class Matrix extends Component {
     )
   }
 
-<<<<<<< HEAD
+
 }
 
 Matrix.defaultProps ={
@@ -35,8 +35,7 @@ Matrix.defaultProps ={
     }
     return arrRows;
   })()
-=======
->>>>>>> 00490de3bc5c43810a48c9e190d4f1741c768a7c
+
 }
 
 Matrix.defaultProps ={
